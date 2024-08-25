@@ -1,0 +1,13 @@
+1. 
+-git init: Khởi tạo thư mục quản lý bởi git
+-git add <file_name>: Thêm file được chọn vào vùng staging
+-git add . : Thêm toàn bộ file vào vùng staging
+-git commit -m "message": Thêm những file ở vùng staging vào vùng repository
+
+2.
+ a. Vùng Working Directory
+ b. Vùng Working Directory
+ c. Vùng Repository
+ d. Vùng Staging Area
+ e. Vùng Repository
+ f. Vùng Staging Area
