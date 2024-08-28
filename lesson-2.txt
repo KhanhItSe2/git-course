@@ -5,9 +5,26 @@
 -git commit -m "message": Thêm những file ở vùng staging vào vùng repository
 
 2.
- a. Vùng Working Directory
- b. Vùng Working Directory
- c. Vùng Repository
- d. Vùng Staging Area
- e. Vùng Repository
- f. Vùng Staging Area
+ a. Không ở vùng nào cả
+ b. 
+	Working Directory: file1, file2, file3
+	Staging Area:
+	Repository:
+
+ c. Vùng staging trống nên không có file nào ở vùng repo khi thực hiện lệnh commit
+	Working Directory: file1, file2, file3
+	Staging Area:
+	Repository:
+
+ d. 
+	Working Directory:  file2, file3
+	Staging Area: file1
+	Repository:
+ e. 
+	Working Directory:  file2, file3
+	Staging Area: 
+	Repository: file1
+ f. Không có file nào được chuyển sang vùng Staging vì không có tên file
+	Working Directory:  file2, file3
+	Staging Area: 
+	Repository: file1
