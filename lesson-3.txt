@@ -68,7 +68,7 @@
         Staging area:  file2.txt
         Repository:
 
-    e. fil2.txt được chuyển sang vùng Repository sau khi commit
+    e. file2.txt được chuyển sang vùng Repository sau khi commit
         Working directory:  
         Staging area:  
         Repository: file2.txt
