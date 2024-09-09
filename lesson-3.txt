@@ -59,17 +59,17 @@
         Repository:
 
     c. Thêm file .gitignore
-        Working directory: file1.txt, file2.txt, oops/file3.txt, .gitignore
+        Working directory:   file2.txt, .gitignore (file1.txt và file3 sẽ bị git bỏ qua vì nằm trong gitignore, file3 nằm trong  folder oops)                 
         Staging area:
         Repository:
 
     d. Những files và folder được ghi trong .gitignore sẽ bị bỏ qua,
 	file2.txt còn lại được chuyển sang vùng Staging area
         Working directory:  
-        Staging area:  file2.txt
+        Staging area:  file2.txt, .gitignore
         Repository:
 
     e. file2.txt được chuyển sang vùng Repository sau khi commit
         Working directory:  
         Staging area:  
-        Repository: file2.txt
+        Repository: file2.txt, .gitignore
