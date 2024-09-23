@@ -1,0 +1,20 @@
+1. 
+    DOM: Document Object Model
+    Ví dụ: <option value="usa">USA</option>
+    Cấu trúc cơ bản bao gồm:
+    - <option>: Thẻ tag mở
+    - </option>: Thẻ tag đóng
+    - value: Thuộc tính - attribute
+    - "usa": Giá trị thuộc tính - value
+    - USA: Nội dung thẻ (text)
+
+2.
+    Cấu trúc html của table
+    table : thẻ table 
+        thead: table heading
+            tr: table row (1 dòng)
+                th: table heading (text in đậm - mỗi 1 th tương đương 1 cột)
+        tbody: table body
+            tr: table row (1 dòng)
+                td: table data (mỗi 1 td tương đương 1 cột)
+
